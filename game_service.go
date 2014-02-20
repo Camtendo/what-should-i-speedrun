@@ -5,12 +5,19 @@ import (
 	"io/ioutil"
 	"encoding/json"
 	"os"
+	"math/rand"
+	"time"
 )
 
 type Game struct {
 	Title string `json:"Title"`
 	Console string `json:"System"`
 	Time string `json:"SDA_Time"`
+}
+
+func getRandomGame(fromlist []Game) Game{
+	rand.Seed(time.Now().UnixNano())
+	return fromlist[rand.Intn(len(fromlist))]
 }
 
 func main() {
@@ -23,5 +30,5 @@ func main() {
 
     var games []Game
     json.Unmarshal(file, &games)
-    fmt.Println(games[4].Console)
+    fmt.Println(getRandomGame(games))
 }
