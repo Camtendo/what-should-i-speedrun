@@ -1,6 +1,6 @@
 [
   {
-    "Title":"4th Wall; The",
+    "Title":"The 4th Wall",
     "System":"PC",
     "SDA_Time":"0:02:58"
   },
@@ -26,7 +26,7 @@
   },
   {
     "Title":"ActRaiser",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:07:06"
   },
   {
@@ -60,12 +60,12 @@
     "SDA_Time":"0:49:51"
   },
   {
-    "Title":"Adventures of Bayou Billy; The",
+    "Title":"The Adventures of Bayou Billy",
     "System":"NES",
     "SDA_Time":"0:24:28"
   },
   {
-    "Title":"Adventures of Captain Comic; The",
+    "Title":"The Adventures of Captain Comic",
     "System":"PC/NES",
     "SDA_Time":"0:07:52"
   },
@@ -85,7 +85,7 @@
     "SDA_Time":"1:23:34"
   },
   {
-    "Title":"Adventures of Rocky and Bullwinkle and Friends; The",
+    "Title":"The Adventures of Rocky and Bullwinkle and Friends",
     "System":"NES",
     "SDA_Time":"0:04:57"
   },
@@ -105,18 +105,18 @@
     "SDA_Time":"0:00:40"
   },
   {
-    "Title":"Agent Under Fire; James Bond 007 in",
+    "Title":"James Bond 007 in Agent Under Fire",
     "System":"GC/PS2/Xbox",
     "SDA_Time":"0:38:33"
   },
   {
-    "Title":"Aladdin; Disney's",
+    "Title":"Disney's Aladdin",
     "System":"Genesis",
     "SDA_Time":"0:16:35"
   },
   {
-    "Title":"Aladdin; Disney's",
-    "System":"Super NES",
+    "Title":"Disney's Aladdin",
+    "System":"Super Nintendo",
     "SDA_Time":"0:18:23"
   },
   {
@@ -125,7 +125,7 @@
     "SDA_Time":"0:14:44"
   },
   {
-    "Title":"Alice; American McGee's",
+    "Title":"American McGee's Alice",
     "System":"PC",
     "SDA_Time":"0:42:35"
   },
@@ -235,7 +235,7 @@
     "SDA_Time":"2:23:41"
   },
   {
-    "Title":"Assassin's Creed: Brotherhood DLC; The Da Vinci Disappearance",
+    "Title":"Assassin's Creed: Brotherhood DLC: The Da Vinci Disappearance",
     "System":"PC/PS3/360",
     "SDA_Time":"0:28:05"
   },
@@ -350,7 +350,7 @@
     "SDA_Time":"0:01:41"
   },
   {
-    "Title":"Battle of Olympus; The",
+    "Title":"The Battle of Olympus",
     "System":"NES",
     "SDA_Time":"0:31:09"
   },
@@ -386,7 +386,7 @@
   },
   {
     "Title":"Battletoads in Battlemaniacs",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:19:56"
   },
   {
@@ -470,23 +470,23 @@
     "SDA_Time":"2:29:02"
   },
   {
-    "Title":"Bouncer; The",
+    "Title":"The Bouncer",
     "System":"PlayStation 2",
     "SDA_Time":"0:19"
   },
   {
-    "Title":"Boy and His Blob: Trouble on Blobolonia; A",
+    "Title":"A Boy and His Blob: Trouble on Blobolonia",
     "System":"NES",
     "SDA_Time":"0:11:30"
   },
   {
     "Title":"Brain Lord",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:19:20"
   },
   {
     "Title":"Breath of Fire",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"4:35:00"
   },
   {
@@ -590,7 +590,7 @@
     "SDA_Time":"0:27:54"
   },
   {
-    "Title":"Castlevania: Adventure; The",
+    "Title":"The Castlevania: Adventure",
     "System":"Game Boy",
     "SDA_Time":"0:19:43"
   },
@@ -626,7 +626,7 @@
   },
   {
     "Title":"Castlevania: Dracula X",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:16:53"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "Title":"Chrono Trigger",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"3:34"
   },
   {
@@ -716,7 +716,7 @@
   },
   {
     "Title":"Clock Tower",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:02:04"
   },
   {
@@ -755,7 +755,7 @@
     "SDA_Time":"0:02:31"
   },
   {
-    "Title":"Company Of Myself; The",
+    "Title":"The Company Of Myself",
     "System":"PC",
     "SDA_Time":"0:03:27"
   },
@@ -766,7 +766,7 @@
   },
   {
     "Title":"Congo's Caper",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:20:54"
   },
   {
@@ -781,7 +781,7 @@
   },
   {
     "Title":"Contra III: The Alien Wars",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:13:48"
   },
   {
@@ -811,7 +811,7 @@
   },
   {
     "Title":"Cool World",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:08:46"
   },
   {
@@ -935,8 +935,8 @@
     "SDA_Time":"0:19:38"
   },
   {
-    "Title":"Death Valley Rally; Road Runner's",
-    "System":"Super NES",
+    "Title":"Road Runner's Death Valley Rally",
+    "System":"Super Nintendo",
     "SDA_Time":"0:25:51"
   },
   {
@@ -946,7 +946,7 @@
   },
   {
     "Title":"Demon's Crest",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:12:24"
   },
   {
@@ -1046,17 +1046,17 @@
   },
   {
     "Title":"Donkey Kong Country",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:31"
   },
   {
     "Title":"Donkey Kong Country 2: Diddy's Kong Quest",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:56"
   },
   {
     "Title":"Donkey Kong Country 3: Dixie Kong's Double Trouble",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:43"
   },
   {
@@ -1156,12 +1156,12 @@
   },
   {
     "Title":"Drakkhen",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:34:32"
   },
   {
     "Title":"Dream TV",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:14:20"
   },
   {
@@ -1231,7 +1231,7 @@
   },
   {
     "Title":"EarthBound",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"4:13"
   },
   {
@@ -1240,7 +1240,7 @@
     "SDA_Time":"0:22:31"
   },
   {
-    "Title":"Elder Scrolls III: Morrowind; The",
+    "Title":"The Elder Scrolls III: Morrowind",
     "System":"Xbox/PC",
     "SDA_Time":"0:04:19"
   },
@@ -1291,7 +1291,7 @@
   },
   {
     "Title":"E.V.O.: Search Eden",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:50:30"
   },
   {
@@ -1371,7 +1371,7 @@
   },
   {
     "Title":"Final Fantasy IV",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"3:05"
   },
   {
@@ -1391,7 +1391,7 @@
   },
   {
     "Title":"Final Fantasy VI",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"4:48"
   },
   {
@@ -1441,7 +1441,7 @@
   },
   {
     "Title":"Final Fantasy Mystic Quest",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:44:20"
   },
   {
@@ -1506,7 +1506,7 @@
   },
   {
     "Title":"Fire Emblem: Thracia 776",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:06:24"
   },
   {
@@ -1515,8 +1515,8 @@
     "SDA_Time":"0:13:50"
   },
   {
-    "Title":"Firemen; The",
-    "System":"Super NES",
+    "Title":"The Firemen",
+    "System":"Super Nintendo",
     "SDA_Time":"0:10:54"
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "Title":"F-Zero",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:41:30"
   },
   {
@@ -1571,7 +1571,7 @@
   },
   {
     "Title":"Gemfire",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:40:30"
   },
   {
@@ -1590,7 +1590,7 @@
     "SDA_Time":"1:13:59"
   },
   {
-    "Title":"Give Up; Robot",
+    "Title":"Robot Give Up",
     "System":"PC",
     "SDA_Time":"0:04:06"
   },
@@ -1635,7 +1635,7 @@
     "SDA_Time":"0:00:48"
   },
   {
-    "Title":"Goonies II; The",
+    "Title":"The Goonies II",
     "System":"NES",
     "SDA_Time":"0:17:33"
   },
@@ -1695,7 +1695,7 @@
     "SDA_Time":"0:26:17"
   },
   {
-    "Title":"Guardian Legend; The",
+    "Title":"The Guardian Legend",
     "System":"NES",
     "SDA_Time":"0:54:56"
   },
@@ -1726,7 +1726,7 @@
   },
   {
     "Title":"Hagane",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:15:22"
   },
   {
@@ -1851,7 +1851,7 @@
   },
   {
     "Title":"Home Alone",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:12:54"
   },
   {
@@ -1871,7 +1871,7 @@
   },
   {
     "Title":"HyperZone",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:27:12"
   },
   {
@@ -1896,11 +1896,11 @@
   },
   {
     "Title":"Illusion Of Gaia",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:17:20"
   },
   {
-    "Title":"Immortal; The",
+    "Title":"The Immortal",
     "System":"PC/NES/Gen",
     "SDA_Time":"0:11:08"
   },
@@ -1910,7 +1910,7 @@
     "SDA_Time":"0:19:23"
   },
   {
-    "Title":"Incredible Hulk; The",
+    "Title":"The Incredible Hulk",
     "System":"Gen/SNES",
     "SDA_Time":"0:19:35"
   },
@@ -1991,7 +1991,7 @@
   },
   {
     "Title":"Jim Power: Lost Dimension in 3-D",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:26:52"
   },
   {
@@ -2031,7 +2031,7 @@
   },
   {
     "Title":"Jurassic Park",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:46:45"
   },
   {
@@ -2096,7 +2096,7 @@
   },
   {
     "Title":"Kirby Super Star",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:58:35"
   },
   {
@@ -2116,7 +2116,7 @@
   },
   {
     "Title":"Kirby's Avalanche",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:06:47"
   },
   {
@@ -2126,7 +2126,7 @@
   },
   {
     "Title":"Kirby's Dream Land 3",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:36:23"
   },
   {
@@ -2156,7 +2156,7 @@
   },
   {
     "Title":"Lagoon",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:28:52"
   },
   {
@@ -2165,7 +2165,7 @@
     "SDA_Time":"0:18:27"
   },
   {
-    "Title":"Lawnmower Man; The",
+    "Title":"The Lawnmower Man",
     "System":"SNES/Gen",
     "SDA_Time":"0:24:53"
   },
@@ -2210,7 +2210,7 @@
     "SDA_Time":"1:58"
   },
   {
-    "Title":"Legendary Axe; The",
+    "Title":"The Legendary Axe",
     "System":"TurboGrafx-16",
     "SDA_Time":"0:17:55"
   },
@@ -2225,7 +2225,7 @@
     "SDA_Time":"0:53:46"
   },
   {
-    "Title":"Lion King; The",
+    "Title":"The Lion King",
     "System":"PC/Gen/SNES/SMS",
     "SDA_Time":"0:16:44"
   },
@@ -2240,7 +2240,7 @@
     "SDA_Time":"1:21:29"
   },
   {
-    "Title":"Little Mermaid; The",
+    "Title":"The Little Mermaid",
     "System":"NES",
     "SDA_Time":"0:07:26"
   },
@@ -2255,7 +2255,7 @@
     "SDA_Time":"0:57:00"
   },
   {
-    "Title":"Lone Ranger; The",
+    "Title":"The Lone Ranger",
     "System":"NES",
     "SDA_Time":"0:57:43"
   },
@@ -2276,12 +2276,12 @@
   },
   {
     "Title":"Lufia & the Fortress of Doom",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"5:27"
   },
   {
     "Title":"Lufia II: Rise of the Sinistrals",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"3:24"
   },
   {
@@ -2305,13 +2305,13 @@
     "SDA_Time":"3:28"
   },
   {
-    "Title":"Magic of Scheherazade; The",
+    "Title":"The Magic of Scheherazade",
     "System":"NES",
     "SDA_Time":"1:20:00"
   },
   {
-    "Title":"Magical Quest Starring Mickey Mouse; The",
-    "System":"Super NES",
+    "Title":"The Magical Quest Starring Mickey Mouse",
+    "System":"Super Nintendo",
     "SDA_Time":"0:16:56"
   },
   {
@@ -2351,7 +2351,7 @@
   },
   {
     "Title":"Mario Is Missing",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:21:34"
   },
   {
@@ -2410,7 +2410,7 @@
     "SDA_Time":"0:00:39"
   },
   {
-    "Title":"Maw; The",
+    "Title":"The Maw",
     "System":"360/PC",
     "SDA_Time":"0:56:55"
   },
@@ -2491,7 +2491,7 @@
   },
   {
     "Title":"Mega Man 7",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:46:42"
   },
   {
@@ -2576,7 +2576,7 @@
   },
   {
     "Title":"Mega Man X2",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:35:31"
   },
   {
@@ -2636,7 +2636,7 @@
   },
   {
     "Title":"Metal Combat: Falcon's Revenge",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:02:22"
   },
   {
@@ -2776,7 +2776,7 @@
   },
   {
     "Title":"Mighty Morphin Power Rangers",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:33:47"
   },
   {
@@ -2800,7 +2800,7 @@
     "SDA_Time":"0:34:49"
   },
   {
-    "Title":"Misadventures of Tron Bonne; The",
+    "Title":"The Misadventures of Tron Bonne",
     "System":"PlayStation",
     "SDA_Time":"0:29:43"
   },
@@ -2816,7 +2816,7 @@
   },
   {
     "Title":"Mohawk and Headphone Jack",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:29:02"
   },
   {
@@ -2836,7 +2836,7 @@
   },
   {
     "Title":"Musya: The Classic Japanese Tale of Horror",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:20:21"
   },
   {
@@ -2941,7 +2941,7 @@
   },
   {
     "Title":"Ogre Battle: March of the Black Queen",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:10:24"
   },
   {
@@ -2955,7 +2955,7 @@
     "SDA_Time":"0:11:44"
   },
   {
-    "Title":"Operative: No One Lives Forever; The",
+    "Title":"The Operative: No One Lives Forever",
     "System":"PC/PS2",
     "SDA_Time":"1:18:16"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "Title":"Pac-Man 2: The New Adventures",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:32:03"
   },
   {
@@ -3086,7 +3086,7 @@
   },
   {
     "Title":"Pocky & Rocky",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:22:09"
   },
   {
@@ -3295,7 +3295,7 @@
     "SDA_Time":"0:25:40"
   },
   {
-    "Title":"Rainbow Six 3: Raven Shield; Tom Clancy's",
+    "Title":"Tom Clancy's Rainbow Six 3: Raven Shield",
     "System":"PC/GC/PS2/Xbox",
     "SDA_Time":"0:11:37"
   },
@@ -3340,7 +3340,7 @@
     "SDA_Time":"1:01:55"
   },
   {
-    "Title":"Red Star; The",
+    "Title":"The Red Star",
     "System":"PlayStation 2",
     "SDA_Time":"1:37:26"
   },
@@ -3431,7 +3431,7 @@
   },
   {
     "Title":"Robotrek",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"3:47:00"
   },
   {
@@ -3496,12 +3496,12 @@
   },
   {
     "Title":"Secret of Evermore",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:46:27"
   },
   {
     "Title":"Secret of Mana",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"5:15"
   },
   {
@@ -3526,7 +3526,7 @@
   },
   {
     "Title":"Shadowrun",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:35:50"
   },
   {
@@ -3606,7 +3606,7 @@
   },
   {
     "Title":"Skyblazer",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:26:06"
   },
   {
@@ -3721,7 +3721,7 @@
   },
   {
     "Title":"S.O.S.",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:03:16"
   },
   {
@@ -3731,7 +3731,7 @@
   },
   {
     "Title":"Spanky's Quest",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:25:14"
   },
   {
@@ -3755,17 +3755,17 @@
     "SDA_Time":"0:13:19"
   },
   {
-    "Title":"Splinter Cell; Tom Clancy's",
+    "Title":"Tom Clancy's Splinter Cell",
     "System":"GC/PS2/Xbox/PC",
     "SDA_Time":"1:13:02"
   },
   {
-    "Title":"Splinter Cell: Chaos Theory; Tom Clancy's",
+    "Title":"Tom Clancy's Splinter Cell: Chaos Theory",
     "System":"GC/PS2/Xbox/PC",
     "SDA_Time":"0:20:23"
   },
   {
-    "Title":"Splinter Cell: Pandora Tomorrow; Tom Clancy's",
+    "Title":"Tom Clancy's Splinter Cell: Pandora Tomorrow",
     "System":"GC/PS2/Xbox/PC",
     "SDA_Time":"1:11:45"
   },
@@ -3821,7 +3821,7 @@
   },
   {
     "Title":"Star Fox",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:10:26"
   },
   {
@@ -3941,7 +3941,7 @@
   },
   {
     "Title":"Super Bomberman 3",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:33:30"
   },
   {
@@ -3951,7 +3951,7 @@
   },
   {
     "Title":"Super Castlevania IV",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:35:13"
   },
   {
@@ -3961,12 +3961,12 @@
   },
   {
     "Title":"Super Double Dragon",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:42:03"
   },
   {
     "Title":"Super Ghouls 'n Ghosts",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:36:07"
   },
   {
@@ -4011,7 +4011,7 @@
   },
   {
     "Title":"Super Mario Kart",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:25:31"
   },
   {
@@ -4031,7 +4031,7 @@
   },
   {
     "Title":"Super Mario RPG: Legend of the Seven Stars",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"2:57:28"
   },
   {
@@ -4041,12 +4041,12 @@
   },
   {
     "Title":"Super Mario World",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:10:29"
   },
   {
     "Title":"Super Mario World 2: Yoshi's Island",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"1:24:36"
   },
   {
@@ -4056,7 +4056,7 @@
   },
   {
     "Title":"Super Metroid",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:32"
   },
   {
@@ -4081,7 +4081,7 @@
   },
   {
     "Title":"Super Punch-Out!!",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:02:54"
   },
   {
@@ -4106,12 +4106,12 @@
   },
   {
     "Title":"Super Star Wars",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:30:36"
   },
   {
     "Title":"Super Star Wars: Return Of The Jedi",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:32:06"
   },
   {
@@ -4181,22 +4181,22 @@
   },
   {
     "Title":"Teenage Mutant Ninja Turtles IV: Turtles in Time",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:20:20"
   },
   {
-    "Title":"Temple of Elemental Evil; The",
+    "Title":"The Temple of Elemental Evil",
     "System":"PC",
     "SDA_Time":"0:04:40"
   },
   {
     "Title":"Terranigma",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"4:48"
   },
   {
     "Title":"Tetris Attack",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:04:19"
   },
   {
@@ -4210,7 +4210,7 @@
     "SDA_Time":"0:35:41"
   },
   {
-    "Title":"Three Stooges; The",
+    "Title":"The Three Stooges",
     "System":"NES",
     "SDA_Time":"0:04:41"
   },
@@ -4226,12 +4226,12 @@
   },
   {
     "Title":"Timecop",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:19:59"
   },
   {
     "Title":"Tiny Toon Adventures: Buster Busts Loose",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:23:08"
   },
   {
@@ -4256,7 +4256,7 @@
   },
   {
     "Title":"Tom and Jerry",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:12:55"
   },
   {
@@ -4455,7 +4455,7 @@
     "SDA_Time":"0:43:27"
   },
   {
-    "Title":"Undying; Clive Barker's",
+    "Title":"Clive Barker's Undying",
     "System":"PC/PS2",
     "SDA_Time":"1:03:16"
   },
@@ -4565,17 +4565,17 @@
     "SDA_Time":"1:27:18"
   },
   {
-    "Title":"Warhammer 40;000: Dawn of War",
+    "Title":"Warhammer 40,000: Dawn of War",
     "System":"PC",
     "SDA_Time":"2:06:57"
   },
   {
-    "Title":"Warhammer 40;000: Dawn of War: Winter Assault",
+    "Title":"Warhammer 40,000: Dawn of War: Winter Assault",
     "System":"PC",
     "SDA_Time":"0:43:50"
   },
   {
-    "Title":"Warhammer 40;000: Dawn of War: Dark Crusade",
+    "Title":"Warhammer 40,000: Dawn of War: Dark Crusade",
     "System":"PC",
     "SDA_Time":"0:28:47"
   },
@@ -4601,7 +4601,7 @@
   },
   {
     "Title":"Whizz",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:16:10"
   },
   {
@@ -4650,7 +4650,7 @@
     "SDA_Time":"0:53:41"
   },
   {
-    "Title":"World of Illusion; Starring Mickey Mouse and Donald Duck",
+    "Title":"World of Illusion Starring Mickey Mouse and Donald Duck",
     "System":"Genesis",
     "SDA_Time":"0:15:47"
   },
@@ -4671,7 +4671,7 @@
   },
   {
     "Title":"Xardion",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:33:01"
   },
   {
@@ -4680,7 +4680,7 @@
     "SDA_Time":"3:40"
   },
   {
-    "Title":"X-Files Game; The",
+    "Title":"The X-Files Game",
     "System":"PC/PS1",
     "SDA_Time":"0:12:44"
   },
@@ -4701,7 +4701,7 @@
   },
   {
     "Title":"X-Men: Mutant Apocalypse",
-    "System":"Super NES",
+    "System":"Super Nintendo",
     "SDA_Time":"0:19:06"
   },
   {
@@ -4735,7 +4735,7 @@
     "SDA_Time":"0:38:35"
   },
   {
-    "Title":"Zelda; The Legend of",
+    "Title":"The Legend of Zelda",
     "System":"NES",
     "SDA_Time":"0:31:39"
   },
@@ -4745,47 +4745,47 @@
     "SDA_Time":"0:09:42"
   },
   {
-    "Title":"Zelda: A Link to the Past; The Legend of",
-    "System":"Super NES",
+    "Title":"The Legend of Zelda: A Link to the Past",
+    "System":"Super Nintendo",
     "SDA_Time":"1:26:19"
   },
   {
-    "Title":"Zelda: Four Swords Adventures; The Legend of",
+    "Title":"The Legend of Zelda: Four Swords Adventures",
     "System":"GameCube",
     "SDA_Time":"3:02:45"
   },
   {
-    "Title":"Zelda: Link's Awakening; The Legend of",
+    "Title":"The Legend of Zelda: Link's Awakening",
     "System":"Game Boy",
     "SDA_Time":"1:05:22"
   },
   {
-    "Title":"Zelda: Majora's Mask; The Legend of",
+    "Title":"The Legend of Zelda: Majora's Mask",
     "System":"Nintendo 64",
     "SDA_Time":"1:49:33"
   },
   {
-    "Title":"Zelda: Ocarina of Time; The Legend of",
+    "Title":"The Legend of Zelda: Ocarina of Time",
     "System":"Nintendo 64",
     "SDA_Time":"1:16:59"
   },
   {
-    "Title":"Zelda: Oracle of Seasons; The Legend of",
+    "Title":"The Legend of Zelda: Oracle of Seasons",
     "System":"Game Boy Color",
     "SDA_Time":"2:06:40"
   },
   {
-    "Title":"Zelda: Skyward Sword; The Legend of",
+    "Title":"The Legend of Zelda: Skyward Sword",
     "System":"Wii",
     "SDA_Time":"5:39"
   },
   {
-    "Title":"Zelda: The Minish Cap; The Legend of",
+    "Title":"The Legend of Zelda: The Minish Cap",
     "System":"Game Boy Advance",
     "SDA_Time":"2:13:19"
   },
   {
-    "Title":"Zelda: Twilight Princess; The Legend of",
+    "Title":"The Legend of Zelda: Twilight Princess",
     "System":"GC/Wii",
     "SDA_Time":"3:06"
   },
