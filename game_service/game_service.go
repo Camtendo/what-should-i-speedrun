@@ -7,7 +7,10 @@ import (
 	"os"
 	"math/rand"
 	"time"
+	"net/http"
 )
+
+var games []Game
 
 type Game struct {
 	Title string `json:"Title"`
@@ -20,7 +23,7 @@ func getRandomGame(fromlist []Game) Game{
 	return fromlist[rand.Intn(len(fromlist))]
 }
 
-func main() {
+func init() {
 	//Read in gamelist
     file, e := ioutil.ReadFile("gamelist.json")
     if e != nil {
@@ -28,7 +31,19 @@ func main() {
     	os.Exit(1)
     }
 
-    var games []Game
     json.Unmarshal(file, &games)
-    fmt.Println(getRandomGame(games))
+
+	http.HandleFunc("/", serveGame)
 }
+
+func serveGame(w http.ResponseWriter, r *http.Request) {
+	var game = getRandomGame(games)
+	var gameString = "You should try "+game.Title+", for "+game.Console+
+	". The fastest time recorded on SDA for this game is "+game.Time+".";
+	fmt.Fprintf(w, gameString)
+}
+
+/*func main() {
+	
+    fmt.Println(getRandomGame(games))
+}*/
