@@ -9,3 +9,9 @@ There is still a lot that can be done, including filtering on each field and add
 ###Currently, you can do the following:
 
 + Retrieve a random game from the list by requesting `/`
+
+
+#TODO
+
++ Add filtering by each field
++ Add autoupdating of records
